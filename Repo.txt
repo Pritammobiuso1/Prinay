@@ -1,0 +1,7 @@
+class Prinay
+{
+	public static void main(String [] arg)
+	{	
+		System.out.pirntln("Hi");
+	}
+}
